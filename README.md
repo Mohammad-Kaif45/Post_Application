@@ -18,7 +18,7 @@ This is a **full-stack web application** built using **Node.js, Express.js, Mong
 
 - **Backend:** Node.js, Express.js, MongoDB, Mongoose
 - **Frontend:** EJS, Tailwind CSS
-- **Authentication:** Passport.js, bcrypt
+- **Authentication:**  bcrypt
 - **File Uploads:** Multer
 
 ## 📂 Project Structure
