@@ -8,6 +8,7 @@ const jwt = require('jsonwebtoken')
 const crypto = require('crypto');
 const path = require('path');
 const upload = require("./config/multerconfig")
+
 app.set("view engine", "ejs")
 app.use(express.json())
 app.use(express.urlencoded({extended : true}))
